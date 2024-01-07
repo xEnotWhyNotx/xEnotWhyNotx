@@ -14,7 +14,7 @@ Hello! I'm a dynamic data analyst and machine learning enthusiast with a proven 
   ![Linux](https://img.shields.io/badge/Linux-Proficient-orange) ![Git](https://img.shields.io/badge/Git-Proficient-orange) ![Docker](https://img.shields.io/badge/Docker-Proficient-orange)
 
 - **Mathematical Skills:** 
-  ![Mathematical Statistics](https://img.shields.io/badge/Mathematical%20Statistics-Advanced-blue) ![Computational Mathematics](https://img.shields.io/badge/Computational%20Mathematics-Advanced-blue) ![Python-based Math Functions](https://img.shields.io/badge/Python-based%20Math%20Functions-Expert-brightgreen)
+  ![Mathematical Statistics](https://img.shields.io/badge/Mathematical%20Statistics-Advanced-blue) ![Computational Mathematics](https://img.shields.io/badge/Computational%20Mathematics-Advanced-blue)
 
 - **Additional Skills:** 
   ![Artificial Intelligence (AI)](https://img.shields.io/badge/Artificial%20Intelligence%20(AI)-Advanced-blue) ![Machine Learning (ML)](https://img.shields.io/badge/Machine%20Learning%20(ML)-Advanced-blue) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-orange) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-Proficient-orange)
