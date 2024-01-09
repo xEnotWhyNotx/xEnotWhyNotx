@@ -58,3 +58,8 @@ Hello! I'm a dynamic data analyst and machine learning enthusiast with a proven 
 ## Contact
 
 Feel free to reach out to me via [email](novichkovSD@ya.ru) or connect with me on [LinkedIn](https://www.linkedin.com/in/XEnotWhyNotx/).
+
+
+## My CV
+![image](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/23a82cdd-bb67-41b2-88d8-7ced4cb1b3e5)
+
