@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm a dynamic data analyst and machine learning enthusiast with a proven track record in developing innovative solutions. My passion lies in turning data into valuable insights and creating powerful algorithms to tackle complex problems.
+A Data Scientist with over a year of experience. Winner of the hackathon "Digital Breakthrough" in 2023. I have skills working with Python, SQL, Docker, Git, Hadoop. My experience includes leading a 5-person development team, deploying recommendation systems and NLP models, and developing and implementing ETL processes using advanced technologies.
 
 ## Skills
 
