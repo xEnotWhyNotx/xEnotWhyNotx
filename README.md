@@ -61,5 +61,6 @@ Feel free to reach out to me via [email](novichkovSD@ya.ru) or connect with me o
 
 
 ## My CV
-![image](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/23a82cdd-bb67-41b2-88d8-7ced4cb1b3e5)
+![image](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/5bb34fdd-3776-43d4-84af-46b7aac05419)
+
 
