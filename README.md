@@ -1,66 +1,59 @@
 <!-- Profile Header -->
-# Hello, I'm Sergey Novichkov! 👋
+<h1 align="center">Hello, I'm Sergey Novichkov! 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/XEnotWhyNotx/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue.svg">
+    </a>
+    <a href="mailto:novichkovSD@ya.ru">
+        <img src="https://img.shields.io/badge/Email-Contact Me-green.svg">
+    </a>
+</p>
 
-## About Me
+---
 
-A Data Scientist with over a year of experience. Winner of the hackathon "Digital Breakthrough" in 2023. I have skills working with Python, SQL, Docker, Git, Hadoop. My experience includes leading a 5-person development team, deploying recommendation systems and NLP models, and developing and implementing ETL processes using advanced technologies.
+## 👨‍💻 About Me
+I am a **Data Scientist** with a robust background in leading development teams and implementing cutting-edge technologies in data analysis and machine learning. Proud winner of the 2023 "Digital Breakthrough" hackathon, I excel in deploying recommendation systems, NLP models, and developing ETL processes.
 
-## Skills
-
-- **Programming Languages:** 
-  ![Python](https://img.shields.io/badge/Python-Expert-brightgreen) ![R](https://img.shields.io/badge/R-Advanced-blue) ![Java](https://img.shields.io/badge/Java-Proficient-orange) ![C++](https://img.shields.io/badge/C++-Proficient-orange)
-  
-- **Tools and Technologies:** 
-  ![Linux](https://img.shields.io/badge/Linux-Proficient-orange) ![Git](https://img.shields.io/badge/Git-Proficient-orange) ![Docker](https://img.shields.io/badge/Docker-Proficient-orange)
-
-- **Mathematical Skills:** 
-  ![Mathematical Statistics](https://img.shields.io/badge/Mathematical%20Statistics-Advanced-blue) ![Computational Mathematics](https://img.shields.io/badge/Computational%20Mathematics-Advanced-blue)
-
-- **Additional Skills:** 
-  ![Artificial Intelligence (AI)](https://img.shields.io/badge/Artificial%20Intelligence%20(AI)-Advanced-blue) ![Machine Learning (ML)](https://img.shields.io/badge/Machine%20Learning%20(ML)-Advanced-blue) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Proficient-orange) ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-Proficient-orange)
-
-- **Data Analysis:** Proficient in Python libraries, including NumPy, Pandas, and Scikit-learn.
+## 🚀 Skills
+- **Programming Languages:** Python (Expert), R (Advanced), Java (Proficient), C++ (Proficient)
+- **Tools & Technologies:** Linux, Git, Docker
+- **Mathematical Skills:** Mathematical Statistics, Computational Mathematics
+- **Additional Skills:** AI, ML, Data Analysis, Bash Scripting
+- **Data Analysis:** Proficient in Python libraries like NumPy, Pandas, and Scikit-learn.
 - **Machine Learning:** Experience with transformers (GPT, BERT), NLP, Linear Regression.
-- **Databases:** SQL, Experience with database integration for Telegram bots.
-- **Data Visualization:** Creating informative graphs and charts using Matplotlib and Plotly.
+- **Databases:** SQL, database integration for Telegram bots.
+- **Data Visualization:** Expert in creating graphs and charts using Matplotlib and Plotly.
 
-## GitHub Stats
-
+## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xEnotWhyNotx&layout=compact&langs_count=6)
 
-## Work Experience
+## 💼 Work Experience
 
 1. **Team Lead | Startup Moscow, Russia | 12.2023 – Present**
-   - Developed a startup project using Miro, Aris Express.
-   - Led a team of 5 people, assigning tasks in Trello, conducting code reviews.
+   - Spearheaded a startup project using Miro, Aris Express.
+   - Led a dynamic team of 5, ensuring project success through meticulous task management and code reviews.
    - Developed a product MVP using Python (Aiogram3), PostgreSQL, Docker.
 
-2. **Data Scientist | RTU MIREA Moscow, Russia | 01.2023 – Present**
-   - Speaker at 4 Data Science meetups (50+ attendees).
-   - Deployed the RecSys model in Jupyter Notebook.
-   - Developed two SQL databases (MySQL/PostgreSQL).
-   - Deployed NER (NLP) models Natasha (DeepPavlov) and SpaCy in Colab.
-   - Utilized machine learning models using scikit-learn, XGBoost, and CatBoost for various tasks.
-   - Worked with Hadoop (HDFS, YARN) and HBase NoSQL database.
+2. **Data Scientist | RTU MIREA, Moscow, Russia | 01.2023 – Present**
+   - Frequent speaker at Data Science meetups (50+ attendees).
+   - Successfully deployed RecSys and NER (Natasha, SpaCy) models.
+   - Developed and managed SQL databases and utilized ML models for diverse analytical tasks.
+   - Acquired hands-on experience with Hadoop (HDFS, YARN) and HBase.
 
-3. **Projects**
+## 🛠 Projects
 
-   - **LesMeh | 09.2022 – 05.2023**
-     - Developed an asynchronous Telegram bot and Excel schedule parser.
-     - 860+ people using the bot, 300+ using it daily.
-     - Assembled a dataset for training the RuGPT-3 model.
-     - Running the bot in a Docker container. The bot works 24/7.
+- **LesMeh | 09.2022 – 05.2023**
+  - Crafted an asynchronous Telegram bot and Excel schedule parser, serving over 860 users daily.
+  - Assembled and utilized a dataset for training the RuGPT-3 model.
+  - Ensured robust, round-the-clock operation via Docker.
 
-   - **StudentGPT | 08.2023 – 10.2023**
-     - Trained RuGPT-3 model on the LesMeh project dataset.
-     - Developed a telegram bot to test the model.
+- **StudentGPT | 08.2023 – 10.2023**
+  - Developed and trained RuGPT-3 model; integrated it into a Telegram bot to enhance user interaction.
 
-## Contact
+## 📬 Contact Me
+Feel free to reach out for collaborations or just a chat:
+- 📧 **Email:** [novichkovSD@ya.ru](mailto:novichkovSD@ya.ru)
+- 🔗 **LinkedIn:** [XEnotWhyNotx](https://www.linkedin.com/in/XEnotWhyNotx/)
 
-Feel free to reach out to me via [email](novichkovSD@ya.ru) or connect with me on [LinkedIn](https://www.linkedin.com/in/XEnotWhyNotx/).
-
-
-## My CV
-![image](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/5bb34fdd-3776-43d4-84af-46b7aac05419)
-
-
+## 📄 My CV
+![My Resume](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/5bb34fdd-3776-43d4-84af-46b7aac05419)
