@@ -27,19 +27,6 @@ I am a **Data Scientist** with a robust background in leading development teams 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xEnotWhyNotx&layout=compact&langs_count=6)
 
-## 💼 Work Experience
-
-1. **Team Lead | Startup Moscow, Russia | 12.2023 – Present**
-   - Spearheaded a startup project using Miro, Aris Express.
-   - Led a dynamic team of 5, ensuring project success through meticulous task management and code reviews.
-   - Developed a product MVP using Python (Aiogram3), PostgreSQL, Docker.
-
-2. **Data Scientist | RTU MIREA, Moscow, Russia | 01.2023 – Present**
-   - Frequent speaker at Data Science meetups (50+ attendees).
-   - Successfully deployed RecSys and NER (Natasha, SpaCy) models.
-   - Developed and managed SQL databases and utilized ML models for diverse analytical tasks.
-   - Acquired hands-on experience with Hadoop (HDFS, YARN) and HBase.
-
 ## 🛠 Projects
 
 - **LesMeh | 09.2022 – 05.2023**
