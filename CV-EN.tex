@@ -1,0 +1,183 @@
+%-------------------------
+% Resume in Latex
+% Author : Novichkov Sergey
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english, russian]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+\setlength{\parskip}{0pt} % Убирает расстояние между абзацами
+\setlength{\parindent}{0pt} % Убирает отступ первой строки абзаца
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+
+\documentclass{article}
+\usepackage[left=0.5in, right=0.5in, top=0.3in, bottom=0.5in]{geometry}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-1pt}\scshape\raggedright\normalsize
+}{}{0em}{}[\color{black}\titlerule \vspace{-1pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-20pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}\vspace{25pt}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+    \textbf{\huge \scshape Sergey Novichkov} \\ \vspace{1pt}
+    \textbf{\scshape Senior ML Engineer | Team Lead | Product Manager} \\
+    \href{mailto:novichkovSD@ya.ru}{\uline{novichkovSD@ya.ru}} $|$ \href{https://t.me/xEnotWhyNotx}{\uline{@xEnotWhyNotx}} $|$ \href{https://linkedin.com/in/xEnotWhyNotx}{\uline{LinkedIn}} $|$ \href{https://github.com/xEnotWhyNotx}{\uline{GitHub}}
+    \vspace{-20pt}
+\end{center}
+
+%-----------SELF PROMO-----------
+\section{About Me}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \vspace{-5pt} 
+    Senior ML Engineer and Team Lead with 3+ years of experience at SBER and fintech startups. Leading a team developing ML solutions that directly impact company revenue through multi-armed bandit algorithms for dynamic factoring rate adjustment. Architect of AI agents with RAG systems (GigaChat2, Qwen3) for internal automation services. Leader in MCP server implementation in corporate environment. Successfully transform business requirements into scalable ML products, reduced operational costs by 35 million rubles/year. Expert in product strategy, experimentation, and cross-functional leadership.
+    \vspace{-15pt}
+\end{itemize}
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+        \vspace{-5pt}
+        \textbf{Leadership \& Product}: Managing teams of 5+ people, product strategies, OKRs, A/B testing, cross-functional coordination, PRD, experimentation \\
+        \textbf{ML \& AI}: LLMs (GigaChat2, Qwen3), RAG systems, LangChain, FAISS, multi-armed bandits, XGBoost, CatBoost, Transformers, SpaCy, NER \\
+        \textbf{Technologies}: Python, SQL, Docker, Kubernetes, RabbitMQ, Kafka, Hadoop, GitLab CI/CD, Grafana, Streamlit, Flask \\
+        \textbf{Innovations}: MCP servers, AI agents, microservice architecture, Big Data ETL, PII Detection \\
+        \textbf{Languages}: Russian (native), English (B2)
+        \vspace{-15pt}
+    }}
+\end{itemize}
+
+%-----------EXPERIENCE-----------
+\section{Work Experience}
+
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \textbf{Senior ML Engineer / Team Lead} \hfill \textit{03.2024 -- Present} \\
+    \textit{\textbf{SBER}, Moscow, Russia} \\
+    \vspace{-10pt}
+    \begin{itemize}
+        \item Leading ML development team that impacts revenue through multi-armed bandit algorithms for dynamic factoring rate adjustment
+        \item Developed and implemented AI agent service for employee assistance with multiple AI assistants based on RAG systems with GigaChat2 and Qwen3, reduced HR tickets by 60\%
+        \item Leader in MCP server implementation in corporate environment, conducting negotiations with departments on GenAI solution implementation
+        \item Automated 70\% of corporate table documentation through LLM pipeline with RabbitMQ, saved company 35 million rubles/year
+        \item Migrated 15+ services from Docker Swarm to Kubernetes, improved fault tolerance by 20\% and performance by 45\%
+        \item Developed model for automatic personal data detection (PII), reduced data verification labor costs by 90\%
+    \end{itemize}
+    \vspace{-10pt}
+    Tech Stack: Python, GigaChat2, Qwen3, LangChain, FAISS, Kubernetes, RabbitMQ, MCP
+    \vspace{-5pt}
+
+    \item \textbf{ML Engineer / Team Lead} \hfill \textit{09.2021 -- 03.2024} \\
+    \textit{\textbf{Proscom}, SalaryScan - ML platform for salary calculation, Moscow, Russia} \\
+    \vspace{-10pt}
+    \begin{itemize}
+        \item Led a team of 5 people, built development process (Jira+Confluence), implemented Agile, reduced time-to-production by 25\%
+        \item Developed resume parsing system from open sources, scaled from 1.7K to 10K+/day through Hadoop+NiFi, reduced manual labeling by 80\%
+        \item Implemented NER model for automatic detection of key skills and qualifications of candidates, improved MAE from 12.4K to 10.2K rubles in salary predictions
+        \item Developed recommendation system for candidate matching, increased sales conversion by 37\%
+        \item Organized 4 internal technical meetups (>60 participants), hiring conversion rate 10\%
+    \end{itemize}
+    \vspace{-10pt}
+    Tech Stack: Python, XGBoost, CatBoost, Hadoop, NiFi, PostgreSQL, Docker
+    \vspace{-17pt}
+\end{itemize}
+
+%-----------EDUCATION-----------
+\section{Education}
+
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \textbf{HSE University}, Moscow \hfill \textit{2025 -- Present} \\
+    Master's Degree, Business Informatics, Digital Product Management
+    \vspace{-10pt}
+    
+    \item \textbf{RTU MIREA}, Moscow \hfill \textit{2021 -- 2024} \\
+    Bachelor's Degree, Applied Mathematics (honors degree, GPA: 5.0/5.0)
+    \vspace{-17pt}
+\end{itemize}
+
+\end{document}
+`

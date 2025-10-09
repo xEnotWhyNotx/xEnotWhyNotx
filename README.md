@@ -318,7 +318,11 @@ I'm always open to discussions on:
 [![Email](https://img.shields.io/badge/Email-novichkovSD@ya.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:novichkovSD@ya.ru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-XEnotWhyNotx-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/XEnotWhyNotx/)
 [![Telegram](https://img.shields.io/badge/Telegram-@xEnotWhyNotx-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xEnotWhyNotx)
-[![Resume](https://img.shields.io/badge/Resume-Download-FF6B6B?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/assets/96652001/5bb34fdd-3776-43d4-84af-46b7aac05419)
+
+### 📄 **Download Resume**
+
+[![Resume RU](https://img.shields.io/badge/Resume-Russian-FF6B6B?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/raw/main/CV-RU.pdf)
+[![Resume EN](https://img.shields.io/badge/Resume-English-4ECDC4?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/raw/main/CV-EN.pdf)
 
 </div>
 
