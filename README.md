@@ -321,7 +321,7 @@ I'm always open to discussions on:
 
 ### 📄 **Download Resume**
 
-[![Resume RU](https://img.shields.io/badge/Resume-Russian-FF6B6B?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/raw/main/CV-RU.pdf)
+[![Resume RU](https://img.shields.io/badge/Resume-Russian-FF6B6B?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/raw/main/%D0%A1V-RU.pdf)
 [![Resume EN](https://img.shields.io/badge/Resume-English-4ECDC4?style=for-the-badge&logo=file-pdf&logoColor=white)](https://github.com/xEnotWhyNotx/xEnotWhyNotx/raw/main/CV-EN.pdf)
 
 </div>
