@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Enterprise AI platform architecture</title>
+<desc id="desc">Business workflows connect to AI products, shared platform services, orchestration, knowledge, models, data, observability, and governance.</desc>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#57606A"/>
+  </marker>
+</defs>
+<rect width="1200" height="620" rx="24" fill="#FFFFFF"/>
+<rect x="1" y="1" width="1198" height="618" rx="23" fill="none" stroke="#D0D7DE"/>
+<text x="60" y="60" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="700" fill="#1F2328">Enterprise AI platform</text>
+<text x="60" y="90" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" fill="#57606A">A reusable path from business problem to observable production system</text>
+
+<rect x="60" y="125" width="1080" height="74" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="92" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#0969DA">BUSINESS LAYER</text>
+<text x="92" y="181" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#1F2328">Operations · Risk · Legal · Sales · Customer workflows · Internal productivity</text>
+
+<line x1="600" y1="199" x2="600" y2="226" stroke="#57606A" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="60" y="230" width="1080" height="74" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="92" y="261" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#1A7F37">AI PRODUCT LAYER</text>
+<text x="92" y="286" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#1F2328">Agents · Document intelligence · Knowledge assistants · Decision support · Automation</text>
+
+<line x1="600" y1="304" x2="600" y2="331" stroke="#57606A" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="60" y="335" width="335" height="120" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="88" y="367" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#8250DF">PLATFORM SERVICES</text>
+<text x="88" y="395" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Model gateway · APIs</text>
+<text x="88" y="420" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">OCR · Classifiers · Caching</text>
+<text x="88" y="445" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Queues · Shared components</text>
+
+<rect x="432" y="335" width="336" height="120" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="460" y="367" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#0969DA">ORCHESTRATION</text>
+<text x="460" y="395" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Agent graphs · Tool use</text>
+<text x="460" y="420" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">State · Context · Workflows</text>
+<text x="460" y="445" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Evaluation · Guardrails</text>
+
+<rect x="805" y="335" width="335" height="120" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="833" y="367" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#1A7F37">KNOWLEDGE &amp; MODELS</text>
+<text x="833" y="395" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">LLMs · Embeddings</text>
+<text x="833" y="420" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Hybrid retrieval · Reranking</text>
+<text x="833" y="445" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Vector and metadata stores</text>
+
+<line x1="227" y1="455" x2="227" y2="483" stroke="#57606A" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="600" y1="455" x2="600" y2="483" stroke="#57606A" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="972" y1="455" x2="972" y2="483" stroke="#57606A" stroke-width="2" marker-end="url(#arrow)"/>
+
+<rect x="60" y="488" width="530" height="82" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="88" y="520" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#0969DA">OPERATIONS &amp; OBSERVABILITY</text>
+<text x="88" y="548" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">Traces · Metrics · Logs · Quality · Cost · Latency · Incidents</text>
+
+<rect x="610" y="488" width="530" height="82" rx="14" fill="#F6F8FA" stroke="#D0D7DE"/>
+<text x="638" y="520" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="700" fill="#8250DF">GOVERNANCE &amp; DELIVERY</text>
+<text x="638" y="548" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="16" fill="#1F2328">CI/CD · Security · Ownership · Standards · Human oversight</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Sergey Novichkov — Head of ML Engineering</title>
+<desc id="desc">Building enterprise AI platforms that survive production.</desc>
+<rect width="1200" height="390" rx="24" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="388" rx="23" fill="none" stroke="#30363D"/>
+<circle cx="1040" cy="72" r="6" fill="#58A6FF"/>
+<circle cx="1066" cy="72" r="6" fill="#A371F7"/>
+<circle cx="1092" cy="72" r="6" fill="#3FB950"/>
+<text x="72" y="92" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" font-weight="600" fill="#8B949E" letter-spacing="2">SERGEY NOVICHKOV</text>
+<text x="72" y="158" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="46" font-weight="700" fill="#F0F6FC">Head of ML Engineering</text>
+<text x="72" y="218" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="30" font-weight="600" fill="#58A6FF">Building enterprise AI platforms</text>
+<text x="72" y="258" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="30" font-weight="600" fill="#58A6FF">that survive production.</text>
+<line x1="72" y1="298" x2="1128" y2="298" stroke="#30363D"/>
+<text x="72" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#8B949E">AI ENGINEERING LEADERSHIP</text>
+<text x="347" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#8B949E">GENAI PLATFORMS</text>
+<text x="586" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#8B949E">AI AGENTS</text>
+<text x="746" y="338" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17" fill="#8B949E">DOCUMENT INTELLIGENCE</text>
+</svg>
