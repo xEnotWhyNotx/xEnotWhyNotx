@@ -119,7 +119,7 @@ Established a shared observability approach for production AI services, combinin
 
 | Outcome | Result |
 |---|---:|
-| Annual combined business impact from personal-data detection workflows | **$2.4M** |
+| Annual combined business impact across the AI team's portfolio | **$2.4M** |
 | Contract analysis quality meeting the defined ideal-quality criterion | **92%** |
 | Maximum processed contract package size observed in production | **1,500 pages** |
 | Typical processing time for large contract packages | **~22 minutes** |
