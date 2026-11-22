@@ -24,6 +24,7 @@ I am a **Head of Machine Learning** leading ML engineering teams and building en
 My work combines engineering leadership, AI platform architecture, and hands-on delivery — from OCR, retrieval, and document intelligence to LLM applications, AI agents, observability, and production operations.
 
 I focus on turning business problems into reliable systems that can be operated, measured, and scaled — not just demonstrated.
+Generated approximately $2.4M in total annual business impact across the AI team's portfolio, including an NLP-based personal data detection solution delivering $590K annually.
 
 > **Production AI is an engineering discipline — not a demo.**
 
@@ -84,7 +85,7 @@ The solution supports multiple document-processing scenarios and provides a comm
 
 Led the development of an automated personal-data detection capability embedded in business document and data-processing workflows.
 
-The solution contributes to **$2.4M in annual combined business impact** across the relevant processes. It supports recurring quarterly audit cycles and flags potentially sensitive data for review.
+The solution contributes to **$590K in annual combined business impact** across the relevant processes. It supports recurring quarterly audit cycles and flags potentially sensitive data for review.
 
 **Focus:** PII detection · classification · auditability · automated controls · regulated workflows
 
