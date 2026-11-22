@@ -84,7 +84,7 @@ The solution supports multiple document-processing scenarios and provides a comm
 
 Led the development of an automated personal-data detection capability embedded in business document and data-processing workflows.
 
-The solution contributes to **₽48M in annual combined business impact** across the relevant processes. It supports recurring quarterly audit cycles and flags potentially sensitive data for review.
+The solution contributes to **$2.4M in annual combined business impact** across the relevant processes. It supports recurring quarterly audit cycles and flags potentially sensitive data for review.
 
 **Focus:** PII detection · classification · auditability · automated controls · regulated workflows
 
@@ -118,7 +118,7 @@ Established a shared observability approach for production AI services, combinin
 
 | Outcome | Result |
 |---|---:|
-| Annual combined business impact from personal-data detection workflows | **₽48M** |
+| Annual combined business impact from personal-data detection workflows | **$2.4M** |
 | Contract analysis quality meeting the defined ideal-quality criterion | **92%** |
 | Maximum processed contract package size observed in production | **1,500 pages** |
 | Typical processing time for large contract packages | **~22 minutes** |
