@@ -32,7 +32,7 @@ I focus on turning business problems into reliable systems that can be operated,
     <td align="center"><strong>9+</strong><br><sub>direct reports</sub></td>
     <td align="center"><strong>37</strong><br><sub>services</sub></td>
     <td align="center"><strong>2</strong><br><sub>platforms</sub></td>
-    <td align="center"><strong>₽48M</strong><br><sub>annual business impact</sub></td>
+    <td align="center"><strong>$2.4M</strong><br><sub>annual business impact</sub></td>
   </tr>
   <tr>
     <td align="center"><strong>8+</strong><br><sub>business units</sub></td>
